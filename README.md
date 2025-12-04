@@ -1,13 +1,24 @@
 ## Hello! 👋
-I'm Wilson Xia, and I'm a recent RIT Game Design & Development graduate seeking roles in game development or software engineering. 
-I'm Experienced in Web Development, and Game Development, and these are some of the tools I used: 
+I'm Wilson Xia, and I'm a recent RIT Game Design & Development graduate seeking roles in game development or software engineering.
+\nI'm Experienced in Web Development, Mobile Development, and Game Development
+\nHere are some of the tools I used:
 - Unity
-- React.js
-- Flutter
+- Unreal Engine
 - VS Code
+- Node.js
+- MongoDB
 - GitHub
+\n and here are the Languages I worked with:
+- C#
+- C++
+- HTML/CSS/Javascript + Typescript
+- React
+- Flutter
   
-I'm currently building a small fishing game in Unity and am passionate about creating polished, engaging experiences.
+\nI'm currently building a small fishing game in Unity, and the repository is currently called "Fish" (i know, real creative)
+\nI really love games, so I want to spend my life working on them as much as I do playing them!
+\nMy favorite series is the Legend of Zelda, I'm also a Pokemon Fan and I enjoy other indie series such as Hollow Knight and Terraria!
+\nMy hobbies include cooking, music, volleyball, and recently, streaming.
 Please reach out to me through email: workingsonxia@gmail.com
 <!--
 **WilsonXia/WilsonXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
