@@ -1,5 +1,14 @@
-## Hi there 👋
-
+## Hello! 👋
+I'm Wilson Xia, and I'm a recent RIT Game Design & Development graduate seeking roles in game development or software engineering. 
+I'm Experienced in Web Development, and Game Development, and these are some of the tools I used: 
+- Unity
+- React.js
+- Flutter
+- VS Code
+- GitHub
+  
+I'm currently building a small fishing game in Unity and am passionate about creating polished, engaging experiences.
+Please reach out to me through email: workingsonxia@gmail.com
 <!--
 **WilsonXia/WilsonXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
