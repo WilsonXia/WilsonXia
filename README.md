@@ -22,9 +22,9 @@ I'm currently building a small fishing game in Unity, and the repository is curr
 
 I really love games, so I want to spend my life working on them as much as I do playing them!
 
-My favorite series is the Legend of Zelda, I'm also a Pokemon Fan and I enjoy other indie series such as Hollow Knight and Terraria!
+My favorite game series is the Legend of Zelda, I'm also a Pokemon Fan and I enjoy other indie series such as Hollow Knight and Terraria!
 
-My hobbies include cooking, music, volleyball, and recently, streaming.
+My hobbies include cooking, music, volleyball, and recently, content-creation.
 
 Please reach out to me through email: workingsonxia@gmail.com
 <!--
