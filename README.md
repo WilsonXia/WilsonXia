@@ -4,17 +4,17 @@ I'm Wilson Xia, and I'm a recent RIT Game Design & Development graduate seeking 
 I'm Experienced in Web Development, Mobile Development, and Game Development
 
 Here are some of the tools I used:
-- Unity
+- Unity (4+ years)
 - Unreal Engine
-- VS Code
-- Node.js
+- Node.js 
 - MongoDB
-- GitHub
+- GitHub/git
+- VS Code
 
 and here are the Languages I worked with:
-- C#
+- C# (4+ years)
 - C++
-- HTML/CSS/Javascript + Typescript
+- HTML/CSS/Javascript + Typescript (4+ years)
 - React
 - Flutter
   
